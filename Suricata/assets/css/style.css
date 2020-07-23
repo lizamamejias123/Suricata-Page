@@ -1,0 +1,91 @@
+.bg-dark {
+  background-color: #E83E8C!important;
+}
+.navbar-dark {
+  background-color: #E83E8C;
+}
+.nav-link{;
+  font-size: 16px!important;
+  padding-left: 20px!important;
+  padding-right: 20px!important;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+
+}
+/*.margin{
+  padding-left: 145px!important;
+padding-right: 145px!important;
+}*/
+.tamano{
+  height:75px;
+}
+.centrado{
+  text-align: center;
+  font-size: 60px;
+  color: #707070;
+}
+.text3{
+  font-size: 11px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+}
+.btn
+{color: #1C7CD5!important;
+font-size: 11px;
+}
+.colore{
+  color: #1C7CD5!important;
+}
+.card-body{
+  padding-left: inherit;
+    padding-right: inherit;
+}
+.suricatalogo{
+  background-color: #E83E8C;
+  padding: 30px;}
+
+.tarjetas{background-color: #17A2B8;
+}
+
+.fill{
+padding: 11px;}
+
+
+
+.text-footer{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    white-space: nowrap;
+  }
+.icons-section, .text-footer{
+  display: inline-block;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  vertical-align: middle;
+  padding-left: 130px;
+  text-align: center;
+
+}
+
+.fill{
+  color: white;
+}
+.card-title{
+  font-weight: bold;
+  font-size: 17px;
+  margin-left: 15px
+}
+.card-text{
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 015.4px;
+}
+.minitext{
+  margin-top: 10px;
+    margin-bottom: 10px;
+}
+.d-none .d-xl-block
